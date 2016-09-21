@@ -1,5 +1,5 @@
-# JanelasConversando
-Aplicativo Android utilizando envio de mensagens via Bundle putExtra
+# Janelas Conversando
+Aplicativo Android com envio de mensagens entre Activitys utilizando Bundle putExtra...
 
 
 <h3>Professor Especialista Fábio Eduardo dos Santos</h3>
